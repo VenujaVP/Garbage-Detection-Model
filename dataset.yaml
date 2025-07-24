@@ -1,0 +1,6 @@
+train: /content/drive/My Drive/NEWMODEL/train/images
+val: /content/drive/My Drive/NEWMODEL/valid/images
+test: /content/drive/My Drive/NEWMODEL/test/images
+
+nc: 6
+names: ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
